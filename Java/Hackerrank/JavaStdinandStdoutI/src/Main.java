@@ -1,5 +1,7 @@
 package src;
 
+import java.util.Scanner;
+
 public class Main {
     private void mai() {
     	  Scanner scan = new Scanner(System.in);
