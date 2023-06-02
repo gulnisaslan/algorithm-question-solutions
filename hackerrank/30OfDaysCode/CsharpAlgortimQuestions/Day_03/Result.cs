@@ -40,7 +40,7 @@ Sample Case 0:
 Sample Case 1: 
  and  is even, so it is not weird. Thus, we print Not Weird.*/
 
- class Result
+ class WeirdNotWeird
  {
     public static void if_else()
     {
